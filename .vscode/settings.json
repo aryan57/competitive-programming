@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "istream": "cpp",
+        "optional": "cpp",
+        "*.tcc": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp"
+    },
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1,
+    "competitive-programming-helper.firstTime": false
+}
