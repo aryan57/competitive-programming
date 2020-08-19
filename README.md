@@ -1,6 +1,6 @@
 # competitive-programming
 
-#VS Code Extensions
+# VS Code Extensions
 1. Remote - WSL (https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
 2. C/C++ (https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 3. C/C++ Compile Run (https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run)
